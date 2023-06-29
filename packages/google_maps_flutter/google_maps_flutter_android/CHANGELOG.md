@@ -1,3 +1,12 @@
+## 2.4.15
+
+* Removes obsolete null checks on non-nullable values.
+* Updates minimum supported SDK version to Flutter 3.3/Dart 2.18.
+
+## 2.4.14
+
+* Updates gradle, AGP and fixes some lint errors.
+
 ## 2.4.13
 
 * Fixes compatibility with AGP versions older than 4.2.
